@@ -8,5 +8,5 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square&logoColor=white" alt="">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=js&style=flat-square&logoColor=white" alt="">    
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=white" alt="">    
 </div>
