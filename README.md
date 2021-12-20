@@ -7,6 +7,6 @@
 </h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Java?logo=java&style=flat-square&logoColor=007396" alt="">
-<img src="https://img.shields.io/badge/JavaScript?logo=javascript&style=flat-square&logoColor=F7DF1E" alt="">    
+<img src="https://img.shields.io/badge/-Java-?logo=java&style=flat-square&logoColor=007396" alt="">
+<img src="https://img.shields.io/badge/-JavaScript-?logo=javascript&style=flat-square&logoColor=F7DF1E" alt="">    
 </div>
