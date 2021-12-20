@@ -14,4 +14,5 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&style=flat-square&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&style=flat-square&logoColor=white" alt="">
 </div>
