@@ -3,5 +3,5 @@
 <h3 align="center"> Tech Stack</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Java-orange?logo=facebook&style=flat-square" alt="">
+<img src="https://img.shields.io/badge/-Java-orange?logo=java&style=flat-square" alt="">
 </div>
