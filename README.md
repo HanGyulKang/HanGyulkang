@@ -16,10 +16,11 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&style=flat-square&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&style=flat-square&logoColor=white" alt="">
 </div>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&style=flat-square&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=Eclipse&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=IntelliJ&style=flat-square&logoColor=white" alt="">    
 </div>
