@@ -2,4 +2,6 @@
 
 <h3 align="center"> Tech Stack</h3>
 
-<img src="https://img.shields.io/badge/github-GIVEME--STAR-red" alt="">
+<div align="center">
+<img src="https://img.shields.io/badge/logo-Java-orange?logo=facebook" alt="">
+</div>
