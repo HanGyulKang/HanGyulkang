@@ -2,4 +2,3 @@
 
 <h3 align="center"> Tech Stack</h3>
 
-https://img.shields.io/badge/github-GIVEME--STAR-red
