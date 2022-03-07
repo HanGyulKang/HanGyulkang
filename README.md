@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=300&section=header&text=HanGyul%20Kang&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=300&section=header&text=HanGyul%20Kang&fontSize=80&&fontColor=0057B8)
 <br>
 <h2 align="center">
     <img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/25/000000/external-technology-renewable-energy-parzival-1997-outline-color-parzival-1997.png"/>
