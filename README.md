@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">
     <img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/25/000000/external-technology-renewable-energy-parzival-1997-outline-color-parzival-1997.png"/>
-        Tech Stack
+        Backend Developer
     <img src="https://img.icons8.com/external-parzival-1997-outline-color-parzival-1997/25/000000/external-technology-renewable-energy-parzival-1997-outline-color-parzival-1997.png"/>
 </h2>
 <br>
@@ -32,6 +32,12 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&style=flat-square&logoColor=white" alt="">    
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?logo=Java&style=flat-square&logoColor=white" alt="">    
+    <img src="https://img.shields.io/badge/Java-007396?logo=Java&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&style=flat-square&logoColor=white" alt="">    
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/Apple-000000?logo=Apple&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/macOS-000000?logo=macOS&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Apple Music-FA243C?logo=Apple Music&style=flat-square&logoColor=white" alt="">    
 </div>
 <br>
