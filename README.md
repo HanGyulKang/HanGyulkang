@@ -23,4 +23,11 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&style=flat-square&logoColor=white" alt="">        
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon AWS&style=flat-square&logoColor=white" alt="">    
 </div>
+<div align="center">
+    <img src="https://img.shields.io/badge/Atlassian-0052CC?logo=Atlassian&style=flat-square&logoColor=white" alt="">     
+    <img src="https://img.shields.io/badge/Confluence-172B4D?logo=Confluence&style=flat-square&logoColor=white" alt="">         
+    <img src="https://img.shields.io/badge/Confluence-172B4D?logo=Confluence&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&style=flat-square&logoColor=white" alt="">    
+</div>
 <br>
