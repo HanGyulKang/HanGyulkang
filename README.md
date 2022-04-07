@@ -8,7 +8,6 @@
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?logo=Git&style=flat-square&logoColor=white" alt="">
-<div align="center">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=flat-square&logoColor=white" alt="">
 </div>
 
