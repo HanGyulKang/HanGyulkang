@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=IntelliJ IDEA&style=flat-square&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=Eclipse IDE&style=flat-square&logoColor=white" alt="">    
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&style=flat-square&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&style=flat-square&logoColor=white" alt="">        
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&style=flat-square&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Apache Maven-C71A36?logo=Apache Maven&style=flat-square&logoColor=white" alt="">    
+    <img src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&style=flat-square&logoColor=white" alt="">        
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&style=flat-square&logoColor=white" alt="">    
@@ -25,9 +27,11 @@
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Atlassian-0052CC?logo=Atlassian&style=flat-square&logoColor=white" alt="">     
-    <img src="https://img.shields.io/badge/Confluence-172B4D?logo=Confluence&style=flat-square&logoColor=white" alt="">         
     <img src="https://img.shields.io/badge/Confluence-172B4D?logo=Confluence&style=flat-square&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&style=flat-square&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&style=flat-square&logoColor=white" alt="">    
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/Java-007396?logo=Java&style=flat-square&logoColor=white" alt="">    
 </div>
 <br>
