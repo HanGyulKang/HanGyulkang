@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=BitBucket&style=flat-square&logoColor=white" alt="">    
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&style=flat-square&logoColor=white" alt="">
 </div>
-
 <div align="center">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=IntelliJ IDEA&style=flat-square&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=Eclipse IDE&style=flat-square&logoColor=white" alt="">    
